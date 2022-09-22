@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.example.pmu_lab_1","c":"UtilsJava","l":"max(Integer, Integer)","url":"max(java.lang.Integer,java.lang.Integer)"},{"p":"com.example.pmu_lab_1","c":"UtilsJava","l":"min(Integer, Integer)","url":"min(java.lang.Integer,java.lang.Integer)"},{"p":"com.example.pmu_lab_1","c":"UtilsJava","l":"UtilsJava()","url":"%3Cinit%3E()"}]
